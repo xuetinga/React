@@ -1,0 +1,1 @@
+{"version":3,"sources":["control.css"],"names":[],"mappings":"AAAA,KACI,qBACJ,CACA,GACI,eACJ","file":"main.e0f306ed.chunk.css","sourcesContent":[".box{\r\n    background-color: pink;\r\n}\r\nul{\r\n    list-style: none;\r\n}"]}
